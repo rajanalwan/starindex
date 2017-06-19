@@ -6,8 +6,12 @@ The repository offers the source code aimed towards using the service on the cli
 
 ## Sources to view the service:
 
-To build your own application based in the service: https://i4ynh6vkb5.execute-api.us-east-2.amazonaws.com/prod/{username}
+To build your own application based in the service: 
 
-To check out the service from the client side: [link](http://rajanalwan.com/starindex/ "http://rajanalwan.com/starindex/")
+https://i4ynh6vkb5.execute-api.us-east-2.amazonaws.com/prod/{username}
+
+To check out the service from the client side: 
+
+[http://rajanalwan.com/starindex/](http://rajanalwan.com/starindex/ "http://rajanalwan.com/starindex/")
 
 To run locally: `./scripts/$ node star_index_with_test.js`
