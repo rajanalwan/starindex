@@ -61,13 +61,3 @@ var star_index = function(username){
       });
       req.end();
 }
-
-const users = ['torvalds', 'JakeWharton', 'tj', 'addyosmani', 'paulirish', 'flowmemo', 'brunch', 'jasonrudolph', 'rajanalwan', 'a', 'assf'];
-
-var get_users = function(){
-      for(var i = 0; i < users.length; i++){
-            star_index(users[i]);
-      }
-}
-
-get_users();
